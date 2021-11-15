@@ -1,0 +1,12 @@
+read me
+
+first open a terminal in webbaplikationer-pa-backend
+npm install
+node server.js
+
+then open a new terminal in webbapplikationer-projektarbete
+npm install
+npm run serve
+
+you need to have both terminals running at the same time
+for the projekt to work

@@ -1,0 +1,26 @@
+{
+  "name": "webapplikationer-pa-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johan-astrom/webapplikationer-pa-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johan-astrom/webapplikationer-pa-backend/issues"
+  },
+  "homepage": "https://github.com/johan-astrom/webapplikationer-pa-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.21",
+    "sqlite3": "^5.0.2"
+  }
+}
